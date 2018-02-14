@@ -12,5 +12,9 @@ The purpose of my code: Just for fun. Fair enought?
 #Main Purpose //
 The first file I will upload later is a python file. It's a little program serve to create a house with some buttons like reset color and quit. Really fun to play with because you can click the house and change house colour. Another highlight of this programer is, you can see your mouse click coordinate if you click outside of the house. 
 
+I just uploaded a new file : graphics.py. This is a simple object oriented graphics library designed to make it very easy
+for novice programmers to experiment with computer graphics in an object oriented fashion.
 
-Hope I can re-edit this file after, HEHE~
+I am current working on a new game desige called: Hanoi Towers. Everybody must play this when you was little. It's a huge project, I am planning spend 2 weeks to finish this.
+
+Cheers
